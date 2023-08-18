@@ -4,6 +4,7 @@ Links uteis para trabalho e edição.
  ##
  !!Para icones.
  1. https://boxicons.com/
+ 2. Icones para aba do navegador https://favicon.io/
 
  ##
  !! Para fontes
