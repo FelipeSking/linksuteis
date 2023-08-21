@@ -17,4 +17,8 @@ Links uteis para trabalho e edição.
  ##
 !! Para render
 1. https://unsplash.com/pt-br/t/3d-renders
-   
+
+
+ ##
+ !! Nome soletrado 
+ 1. https://readme-typing-svg.herokuapp.com/demo/
