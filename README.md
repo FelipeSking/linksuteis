@@ -22,3 +22,8 @@ Links uteis para trabalho e edição.
  ##
  !! Nome soletrado 
  1. https://readme-typing-svg.herokuapp.com/demo/
+
+
+ ##
+ !!Para notion
+ https://widgetbox.app/dashboard/create
