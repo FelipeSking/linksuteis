@@ -27,3 +27,9 @@ Links uteis para trabalho e edição.
  ##
  !!Para notion
  https://widgetbox.app/dashboard/create
+
+
+
+ ##
+ !! Estrelas do github
+ https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
