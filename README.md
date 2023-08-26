@@ -27,6 +27,7 @@ Links uteis para trabalho e edição.
  ##
  !!Para notion
  https://widgetbox.app/dashboard/create
+ https://weatherwidget.io/ --Ferramenta de clima
 
 
 
