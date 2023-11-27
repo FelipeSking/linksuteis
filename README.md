@@ -34,3 +34,12 @@ Links uteis para trabalho e edição.
  ##
  !! Estrelas do github
  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+
+
+
+
+ ##
+ !! Bandeiras de paises 
+
+ https://flagicons.lipis.dev/
+ 
